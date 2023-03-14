@@ -1,13 +1,7 @@
 // import logo from './logo.svg';
 // import './App.css';
 
-const Navbar = () => {
-  return(
-    <div>
-      <h3>Hello World!</h3>
-    </div>
-  )
-}
+
 
 function App() {
   return (
